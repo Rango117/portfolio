@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html lang = "en">
-<head>
-	<title>Navbar Example</title>
-</head>
-<body>
-	<h3> Hello!</h3>
-</body>
-</html>
